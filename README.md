@@ -1,3 +1,6 @@
+## ДЕМО
+https://stolkacheva.github.io/react-props-rating/
+
 Рейтинг фильмов
 ===
 
