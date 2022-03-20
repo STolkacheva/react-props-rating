@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.db0b703e.css","mappings":"AAAA,iBACE,oBACF,CAEA,MACE,cACF","sources":["App.css"],"sourcesContent":[".card-body-stars {\n  list-style-type: none;\n}\n\nul li {\n  display: inline;\n}\n"],"names":[],"sourceRoot":""}

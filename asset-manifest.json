@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-props-rating/static/css/main.db0b703e.css",
+    "main.js": "/react-props-rating/static/js/main.58073a34.js",
+    "index.html": "/react-props-rating/index.html",
+    "main.db0b703e.css.map": "/react-props-rating/static/css/main.db0b703e.css.map",
+    "main.58073a34.js.map": "/react-props-rating/static/js/main.58073a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db0b703e.css",
+    "static/js/main.58073a34.js"
+  ]
+}
